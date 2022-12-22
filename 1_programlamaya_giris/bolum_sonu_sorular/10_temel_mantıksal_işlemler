@@ -1,0 +1,14 @@
+soru10:bölüm sonu sorusu
+A=33 VE B=77 değerleri için aşağıdaki işlemlerin sonuçlarını hesaplayınız
+
+ÖRNEK1:A VE B 
+SONUÇ:2541
+#Temel mantıksal işlemlerde VE'yi çarpma işlemi gibi düşünüp 33 ile 77'yi carpınca sonuca ulaşıyoruz.
+
+ÖRNEK2:A VEYA B
+SONUÇ:110
+#Temel mantıksal işlemlerde VEYA'yı toplama işlemi gibi düşünüp 33ile 77'yi tolpayınca sonuca ulaşıyoruz.
+
+ÖRNEK3:DEĞİL(B)
+SONUÇ:33
+#Temel mantıksal işlemlerde bir değerin DEĞİLİ o değerin değiştirilmiş şeklidir.
